@@ -1,4 +1,4 @@
-# Hi there, Angel! 👋
+# Hi there, I'm Angel! 👋
 ### Systems Engineer | DevOps & SecOps Enthusiast
 
 I am a technical specialist focused on infrastructure automation, Linux administration, and environment security. I help businesses and startups deploy their applications reliably and keep their servers protected.
