@@ -3,6 +3,8 @@
 
 I am a technical specialist focused on infrastructure automation, Linux administration, and environment security. I help businesses and startups deploy their applications reliably and keep their servers protected.
 
+Practice: 1+ years of hands-on experience in Linux Administration and Infrastructure Automation.
+
 ---
 
 ### 🛠️ Tech Stack & Skills
